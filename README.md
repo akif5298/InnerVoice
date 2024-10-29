@@ -13,7 +13,7 @@ InnerVoice is an Android app aimed at providing students with a safe and semi-an
 ## Setup Instructions
 1. Clone the repository:
 ```
-git clone https://github.com/your-repo/InnerVoiceApp.git
+git clone https://github.com/vwelve/InnerVoice.git
 ```
 2. Open the project in Android Studio.
 3. Sync gradle and run the project on an emulator or device.
